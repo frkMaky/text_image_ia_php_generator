@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 use OpenAI;
 
  // API KEY
- define("API_KEY","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");
+ define("API_KEY","YOUR_CHATGPT_API_KEY_HERE");
 
 
 class PagesController extends Controller
